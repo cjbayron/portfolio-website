@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#4484ce, #1ad7c0, #9b59b6",
   firstName: "CJ",
   middleName: "",
   lastName: "Bayron",
@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "I’m currently working as a <b>Senior Software Engineer</b> for a financial data company, building automation pipelines that utilize <b>Machine Learning (ML)</b> and Natural Language Processing (NLP) techniques for more efficient data collection. I’m enthusiastic and continuously learning more about ML, MLOps, and their applications, particularly in the field of <b>Music Information Retrieval (MIR)</b>, which is the crossroad of things I'm passionate about.",
-  resume: "",
+  resume: "https://drive.google.com/file/d/1A58r0du_2u7_IAFu67a1mSNYMlJ94iDI/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -52,7 +52,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "Recent Projects",
   gitHubUsername: "cjbayron", //i.e."johnDoe12Gh"
   reposLength: 0,
@@ -114,7 +114,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm keen on landing a Machine Learning role in the field of Music Technology! If you know any opportunities, or have just anything you want to talk with me, please feel free to reach out at",
+    "I'm keen on landing an Applied <b>Machine Learning</b> role in the field of <b>Music Technology</b>! If you know any opportunities, or have just anything you want to talk with me, please feel free to reach out at",
   email: "cjdbayron@gmail.com",
 };
 
