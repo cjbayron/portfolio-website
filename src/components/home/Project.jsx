@@ -47,7 +47,7 @@ const Project = ({ heading, username, length, specfic }) => {
     name: "c-rnn-gan.pytorch",
     description: "<i>Pytorch</i> implementation of C-RNN-GAN model for Symbolic Music Generation",
     svn_url: "https://github.com/cjbayron/c-rnn-gan.pytorch",
-    extra: "&#11088 30+ Github stars",
+    extra: "&#11088 40+ Github stars",
     languages: ["Python", "PyTorch"]
 },
 {

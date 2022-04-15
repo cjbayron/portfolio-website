@@ -42,7 +42,7 @@ const about = {
   //imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "I’m currently working as a <b>Senior Software Engineer</b> for a financial data company, building automation pipelines that utilize <b>Machine Learning (ML)</b> and Natural Language Processing (NLP) techniques for more efficient data collection. I’m enthusiastic and continuously learning more about ML, MLOps, and their applications, particularly in the field of <b>Music Information Retrieval (MIR)</b>, which is the crossroads of things I'm passionate about.",
+    "I’m a Software Engineer with focus on end-to-end development of <b>Machine Learning (ML)</b> solutions. I’m enthusiastic and continuously learning about ML, MLOps, and their applications, particularly in the field of <b>Music Technology</b> (Music Information Retrieval (MIR), Music Recommendation, etc.) which is the crossroads of things I'm passionate about.",
   resume: "https://drive.google.com/file/d/1A58r0du_2u7_IAFu67a1mSNYMlJ94iDI/view?usp=sharing",
 };
 
@@ -114,7 +114,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm keen on landing an Applied <b>Machine Learning</b> role in the field of <b>Music/Audio Technology</b>! If you know any opportunities, or have just anything you want to talk with me, please feel free to reach out at",
+    "My career focus is on Applied <b>Machine Learning</b> in the field of <b>Music Technology</b>! If you know any opportunities, or have just anything you want to talk with me, please feel free to reach out at",
   email: "cjdbayron@gmail.com",
 };
 
